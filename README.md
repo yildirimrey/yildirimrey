@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning NextJS
-💬 Ask me about C#,Angular,MsSql
+### 🌱 I’m currently learning NextJS
+### 💬 Ask me about C#,Angular,MsSql
 📫 How to reach me yildirimrey@gmail.com
 ⚡ Code, I think fun.
 <!--

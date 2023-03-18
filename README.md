@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning NextJS
 ### 💬 Ask me about C#,Angular,MsSql
-📫 How to reach me yildirimrey@gmail.com
-⚡ Code, I think fun.
+### 📫 How to reach me yildirimrey@gmail.com
+### ⚡ Code, I think fun.
 <!--
 **yildirimrey/yildirimrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
